@@ -4,11 +4,14 @@ syntax on
 set number
 set autoindent
 set backspace=indent,eol,start
-set tabstop=4
+set tabstop=8
 set shiftwidth=4
 set smartindent
 set cindent
 set cursorline
+set expandtab
+set softtabstop=4
+set shiftround
 
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim

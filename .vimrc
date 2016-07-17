@@ -8,6 +8,7 @@ set tabstop=4
 set shiftwidth=4
 set smartindent
 set cindent
+set cursorline
 
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
